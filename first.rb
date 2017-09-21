@@ -3,6 +3,6 @@ class First
     puts "Test"
   end
   def test1
-    puts "Test1"
+    puts "Test12"
   end
 end
